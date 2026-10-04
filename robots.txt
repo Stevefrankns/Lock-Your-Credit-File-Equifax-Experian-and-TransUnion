@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stevefrankns.github.io/Lock-Your-Credit-File-Equifax-Experian-and-TransUnion/sitemap.xml
